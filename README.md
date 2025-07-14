@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olanrewaju
-- 👀 I’m interested in data analysis, Simulations, Data science and Machine Learning
+- 👀 I’m interested in Backend enginnering, data analysis, Simulations, Data science and Machine Learning
 - 🌱 I’m currently working
-- 💞️ I’m looking to collaborate on Data science/Machine learning
+- 💞️ I’m looking to collaborate on backend application development, Data science/Machine learning
 - 📫 How to reach me :freelance@lantopinfotech.com
                        +2348103017863
                        
